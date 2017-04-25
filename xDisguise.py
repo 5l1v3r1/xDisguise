@@ -12,7 +12,6 @@ print('''
                       |___/                                                     
 
 ''')
-# ^ Make the "x" color['MAGENTA'] & the "Disguise" color['RED'] (add the color list so I can experiment with colors and see what looks best :)
 
 filename = input("Filename to add extension to (exclude .extension): ")
 o_extension = input("Filename's original extension: .")
